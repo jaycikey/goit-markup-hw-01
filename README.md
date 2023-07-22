@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-https://heroic-malasada-552053.netlify.app/
+https://jaycikey.github.io/goit-markup-hw-01/
